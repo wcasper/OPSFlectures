@@ -13,6 +13,8 @@ title: Orthogonal Polynomials and Special Functions Lectures
 
 **Email:** wcasper@fullerton.edu
 
+**Textbook:** [An Introduction to Orthogonal Polynomials](https://wcasper.github.io/chihara.djvu) by Chihara.
+
 ***
 
 ## New posts!
