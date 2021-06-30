@@ -11,3 +11,5 @@ permalink: /discussions/
 * [Scratchwork for 06/18/2021](https://wcasper.github.io/OPSFlectures/notes/2021-06-18-discussion.pdf)
 * [Scratchwork for 06/23/2021](https://wcasper.github.io/OPSFlectures/notes/2021-06-23-discussion.pdf)
 * [Scratchwork for 06/25/2021](https://wcasper.github.io/OPSFlectures/notes/2021-06-25-discussion.pdf)
+* [Scratchwork for 06/28/2021](https://wcasper.github.io/OPSFlectures/notes/2021-06-28-discussion.pdf)
+* [Scratchwork for 06/30/2021](https://wcasper.github.io/OPSFlectures/notes/2021-06-30-discussion.pdf)
